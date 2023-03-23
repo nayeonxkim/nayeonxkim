@@ -1,13 +1,1 @@
-# 안녕하세요 김나연입니다.
-
-## 반갑습니다 잘부탁드려요.
-
-### 부울경 1반이에요.
-
-#### 배가 고픕니다.
-
-##### 해산물 리조또
-
-###### 꼬메꼬메쉬
-
-알감자
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
