@@ -14,10 +14,3 @@
 </div>
 
 
-
-<div align="center">
- 
-  
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=kny0628m)](https://solved.ac/kny0628m)
-</div>
