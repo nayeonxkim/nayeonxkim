@@ -9,7 +9,7 @@
 <div align="center">
  <p>
    <img src="https://img.shields.io/badge/Python-007396?style=flat&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=#ECD53F"/>
+  <img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat&logo=로고이름&logoColor=white"/>
  </p>
 
 </div>
